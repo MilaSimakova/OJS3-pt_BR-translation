@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+
+
+<locale name="pt_BR" full_name="Português (Brasil)">
+	<message key="plugins.generic.htmlArticleGalley.displayName">HTML Article Galley</message>
+	<message key="plugins.generic.htmlArticleGalley.description">Este plugin proporciona suporte para HTML Article Galleys.</message>
+</locale>
