@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+
+
+<locale name="pt_BR" full_name="Português (Brasil)">
+	<message key="plugins.block.makeSubmission.displayName">Bloco “Submeta um trabalho”</message>
+	<message key="plugins.block.makeSubmission.description">Este plugin cria um bloco lateral com um link “Submeta um trabalho”.</message>
+	<message key="plugins.block.makeSubmission.linkLabel">Submeta um novo artigo</message>
+</locale>
