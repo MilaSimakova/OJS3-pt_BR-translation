@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+
+<locale name="pt_BR" full_name="Português (Brasil)">
+	<message key="plugins.generic.dublinCoreMeta.name">Plugin de indexação Dublin Core</message>
+	<message key="plugins.generic.dublinCoreMeta.description">Este plugin adiciona meta tags Dublin Core nas visualizações de artigos, com a finalidade de indexação.</message>
+</locale>
