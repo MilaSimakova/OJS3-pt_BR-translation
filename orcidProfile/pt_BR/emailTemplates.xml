@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE email_texts SYSTEM "../../../../../lib/pkp/dtd/emailTemplateData.dtd">
+
+
+
+<email_texts locale="pt_BR">
+	<email_text key="ORCID_COLLECT_AUTHOR_ID">
+		<subject>Submissão ORCID</subject>
+		<body>Caro {$authorName},
+
+Você foi indicado(a) como co-autor(a) de um manuscrito submetido  "{$articleTitle}" à {$journalName}.
+
+Para confirmar sua autoria, por favor adicione sua identificação ORCID à submissão, clicando no link informado abaixo.
+
+{$authorOrcidUrl}
+
+Em caso de dúvidas, queira entrar em contato conosco.
+
+{$editorialContactSignature}
+
+
+</body>
+		<description>Este modelo de e-mail é utilizado para coletar as identificações ORCID dos autores.</description>
+	</email_text>
+</email_texts>
